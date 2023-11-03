@@ -1,6 +1,6 @@
 <div align="center">
 
-![Codember](./images/codember.webp)
+![Codember](./image/codember.webp)
 
 # [codember](https://codember.dev)
 
