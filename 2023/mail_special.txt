@@ -1,0 +1,6 @@
+Execute: cal command
+submit the day check with * simbol, example: submit 2023-12-01
+
+Result:
+$ submit 2023-12-01
+Congratulations! You have solved a secret challenge! #X2. You have obtained 2363332 points. You now have 4729829 points!
